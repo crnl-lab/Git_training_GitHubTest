@@ -3,11 +3,13 @@ SandBox to learn how to use Git and Github.
 
 Homework #1 :
 
-1. Create a GitHub account
+1. Create a GitHub account and join the CRNL-Lab organisation
 2. Clone this repository
-3. In your local project version, create a text file using a pseudo (ex : alex.txt) and write inside the response to this question :
-What is your soks color ?
-4. Stage, commit and push your changes to the general repository
+3. In your local project version, create a text file in the correct folder using a pseudo (ex : alex.txt) and write inside the response to this question :
+What is the color of your soks today ?
+4. Stage, commit and push your local changes to the general repository
+5. Have a look on the project licence : all you add here will be BSD 3-clause open source licenced.
+
 
 
 If you have any trouble doing thoses steps, let us know on our actual sclack
